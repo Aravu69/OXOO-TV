@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "150009718569",
+    "project_id": "com-dreamfilmseu",
+    "storage_bucket": "com-dreamfilmseu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150009718569:android:f56a1e17c1af8c39deb938",
+        "android_client_info": {
+          "package_name": "com.dreamfilmseu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCqRGz6PbT2q3ceXCULYbw9SO9jckaqec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-6690243204294223~2556036648"
+    }
+  ],
+  "configuration_version": "1"
+}

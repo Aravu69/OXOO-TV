@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Dream-Films</string>
+    <string name="browse_title">Vidéos de Dream-Films</string>
+    <string name="related_movies">Vidéos Similaires</string>
+    <string name="grid_view">Vue en Grille</string>
+    <string name="error_fragment">Fragment d\'Erreur</string>
+    <string name="personal_settings">Paramètres Personnels</string>
+    <string name="watch_trailer_1">Regarder la bande-annonce</string>
+    <string name="watch_trailer_2">GRATUIT</string>
+    <string name="rent_1">Louer par Jour</string>
+    <string name="rent_2">À partir de 1,99 €</string>
+    <string name="buy_1">Acheter et Posséder</string>
+    <string name="buy_2">À 9,99 €</string>
+
+    <!-- Messages d'erreur -->
+    <string name="error_fragment_message">Une erreur est survenue</string>
+    <string name="dismiss_error">Fermer</string>
+    <!-- TODO : Supprimer ou modifier ce texte de remplacement -->
+
+    <string name="sign_up_now">Inscrivez-vous maintenant</string>
+    <string name="sign_up">Inscription</string>
+    <string name="login">Connexion</string>
+    <string name="login_using_your_email_address">Connectez-vous avec votre adresse e-mail</string>
+    <string name="email_address">Adresse E-mail</string>
+    <string name="dont_t_have_an_account">Vous n\'avez pas de compte ?</string>
+    <string name="sign_up_using_your_email_address">Inscrivez-vous avec votre adresse e-mail</string>
+    <string name="continue_with_google">Continuer avec Google</string>
+    <string name="something_went_wrong">Quelque chose s\'est mal passé.</string>
+
+    <string name="featured_tv_channels">Chaînes TV en Vedette</string>
+    <string name="latest_movie">Derniers Films</string>
+    <string name="latest_tv_series">Dernières Séries TV</string>
+    <string name="more">Plus</string>
+    <string name="movie">Films</string>
+    <string name="live_tv">TV en Direct</string>
+    <string name="tv_series">Séries</string>
+    <string name="country">Pays</string>
+    <string name="genre">Genre</string>
+    <string name="favorite">Favoris</string>
+    <string name="myaccount">Mon Compte</string>
+    <string name="search">Rechercher</string>
+    <string name="no_item_found">Aucun élément trouvé</string>
+    <string name="cast_n_crew">Distribution et Équipe</string>
+    <string name="signin">Connexion</string>
+    <string name="reset">Réinitialiser le Mot de Passe</string>
+    <string name="register">S\'inscrire</string>
+    <string name="full_name">Nom Complet</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de Passe</string>
+    <string name="save">Enregistrer</string>
+    <string name="director">Réalisateur :</string>
+    <string name="comments">Commentaires</string>
+    <string name="your_comments">Vos Commentaires</string>
+    <string name="add_comments">Ajouter un Commentaire</string>
+    <string name="no_internet">Pas de connexion Internet !</string>
+    <string name="copyright">Droits d\'auteur</string>
+    <string name="contact_us">Nous Contacter</string>
+    <string name="title_activity_item_show">ItemShowActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+    <string name="play_now">Lire Maintenant</string>
+    <string name="go_premium">Devenir Premium</string>
+    <string name="program_guide">Guide des Programmes</string>
+    <string name="live">EN DIRECT</string>
+    <string name="watching_on">Regardez en direct sur</string>
+    <string name="all_tv_channel">Toutes les Chaînes TV</string>
+    <string name="you_may_also_like">Vous pourriez aussi aimer</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="tv_channels">Chaînes TV</string>
+    <string name="watching_catch_up_tv">Regarder la TV en Replay</string>
+    <string name="deactive_account_text">Si vous ne souhaitez plus utiliser ce compte, vous pouvez le désactiver facilement.</string>
+    <string name="reason_to_deactivate_account">Raison de désactiver le compte</string>
+    <string name="enter_password">Entrer le Mot de Passe</string>
+    <string name="long_text">Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet</string>
+
+    <string name="fetch_error">Impossible de récupérer les données</string>
+    <string name="login_first">Vous devez vous connecter d\'abord</string>
+    <string name="login_or_signup_first">Vous devez vous connecter ou vous inscrire.</string>
+    <string name="comment_empty">Le commentaire ne peut pas être vide</string>
+    <string name="error_toast">Une erreur est survenue ! Veuillez réessayer plus tard</string>
+    <string name="deactivate_account">Désactiver le Compte</string>
+    <string name="explore_by_genre">Explorer par Genre</string>
+    <string name="explore_by_country">Explorer par Pays</string>
+    <string name="share_this_app">Partager cette Application</string>
+    <string name="connect_to_tv">Connecter à la TV</string>
+    <string name="share_body">Je souhaite partager cette application de TV et Films. Vous pouvez la télécharger ici :\n https://play.google.com/store/apps/details?id=</string>
+    <string name="term_of_services">Conditions d\'Utilisation</string>
+    <string name="accept">Accepter</string>
+    <string name="decline">Refuser</string>
+    <string name="account_deactivate_info"><![CDATA[Votre compte sera désactivé et seul un administrateur pourra le réactiver.]]></string>
+    <string name="regular_program">Programme Régulier</string>
+    <string name="international">International</string>
+    <string name="server">Serveur</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">John Doe</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="push_notification">Notifications Push</string>
+    <string name="others">AUTRES</string>
+    <string name="no_data_found">Aucune donnée trouvée.</string>
+    <string name="no_more_data_found">Plus aucune donnée trouvée.</string>
+    <string name="no_subscription_history">Aucun historique d\'abonnement trouvé.</string>
+    <string name="plan">Abonnement</string>
+    <string name="no_active_subscription_found">Aucun abonnement actif trouvé.</string>
+    <string name="upgrade_membership">Mettre à niveau l\'abonnement</string>
+    <string name="p_date">Date d\'Achat</string>
+    <string name="from">De</string>
+    <string name="to">À</string>
+    <string name="action">Action</string>
+    <string name="status">Statut</string>
+    <string name="by_tapping_the_button_you_agree_to_oxxo_term_amp_condition_and_privacy_policy"><![CDATA[En appuyant sur le bouton, vous acceptez les Conditions Générales d\'Oxxo et la Politique de Confidentialité.]]></string>
+
+    <string name="paid_content">Vous essayez de regarder un contenu payant. Veuillez d\'abord souscrire à un abonnement.</string>
+    <string name="subscription_required">Abonnement Requis</string>
+    <string name="subscribe_text">S\'abonner</string>
+    <string name="payment_success">Paiement Réussi.</string>
+    <string name="invalid_card">Carte invalide</string>
+    <string name="subscribe_error">Pour vous abonner, vous devez d\'abord vous connecter.</string>
+    <string name="something_went_text">Quelque chose s\'est mal passé, essayez à nouveau ou contactez votre développeur.</string>
+    <string name="go_back">Retour</string>
+    <string name="cvv">CVV</string>
+    <string name="mm_yy">MM/AA</string>
+    <string name="card_number">Numéro de Carte</string>
+    <string name="downloading">Téléchargement en cours</string>
+    <string name="download_completed">Téléchargement Terminé</string>
+    <string name="watch_now">Regarder Maintenant</string>
+    <string name="download">Télécharger</string>
+    <string name="select_server">Sélectionner le Serveur</string>
+    <string name="home">Accueil</string>
+    <string name="buy_any_subscription_below_and_enjoy_oxoo_prime">Achetez un abonnement ci-dessous et profitez des fonctionnalités de mytvonline prime.</string>
+    <string name="all_tv_channels">Chaînes TV</string>
+    <string name="all_kids_videos">Toutes les Vidéos pour Enfants</string>
+    <string name="all_tv_series">Toutes les Séries TV</string>
+    <string name="unlimited_movies">Films Illimités</string>
+    <string name="please_select_your_payment_method">Veuillez sélectionner votre méthode de paiement</string>
+    <string name="download_appear_text">Votre élément téléchargé apparaîtra ici. Aucun élément téléchargé trouvé.</string>
+    <string name="send">Envoyer</string>
+    <string name="searcError_message">Le Titre et le Type ne peuvent pas être vides</string>
+    <string name="external_download_links">Liens de Téléchargement Externes :</string>
+    <string name="rating">Évaluation</string>
+
+    <!-- TODO : Supprimer ou modifier ce texte de remplacement -->
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="add_to_fav">Ajouter aux Favoris</string>
+    <string name="remove_from_fav">Supprimer des Favoris</string>
+
+    <string name="enter_your_activation_code">Entrez votre code d\'activation</string>
+    <string name="enter_code">Entrez le code ici</string>
+    <string name="get_activation_code_following">Suivez les étapes ci-dessous pour obtenir le code :</string>
+    <string name="instruction_2">2. Allez ensuite dans Paramètres.</string>
+    <string name="instruction_3">3. Cliquez ensuite sur "Connecter à la TV".</string>
+    <string name="signout">Déconnexion</string>
+    <string name="connect">Connecter</string>
+    <string name="user_name">Nom d\'Utilisateur :</string>
+    <string name="emailTv">E-mail :</string>
+    <string name="expire_date">Date d\'Expiration :</string>
+    <string name="signed_in_as">Connecté en tant que :</string>
+    <string name="connecting">Connexion en cours…</string>
+    <string name="active_plan">Abonnement Actif :</string>
+
+    <!-- instructions du dialogue -->
+    <string name="dialog_instruction_1">1. Achetez un abonnement depuis votre téléphone/site web.</string>
+    <string name="dialog_instruction_2">2. Fermez cette application.</string>
+    <string name="dialog_instruction_3">3. Rouvrez cette application.</string>
+    <string name="continue_browsing">Continuer à naviguer</string>
+    <!-- instructions de l\'alerte de connexion -->
+    <string name="login_alert_dialog_instructions_1">1. Vous devez vous connecter pour regarder un contenu payant.</string>
+    <string name="login_alert_dialog_instructions_2">2. Cliquez sur le bouton ci-dessous pour vous connecter.</string>
+
+    <string name="enter_below_code_on_your_tv">Entrez le code ci-dessous sur votre TV</string>
+    <string name="all_radio_channels">Toutes les Chaînes Radio</string>
+    <string name="listening_on">Écoute en cours sur</string>
+    <string name="type_keyword">Tapez un mot-clé</string>
+    <string name="year_range">Période</string>
+    <string name="cancel">Annuler</string>
+    <string name="tv_category">Catégorie TV</string>
+    <string name="name">Nom</string>
+    <string name="all_countries">Tous les Pays</string>
+    <string name="all_categories">Toutes les Catégories</string>
+    <string name="external_download">Téléchargement Externe</string>
+    <string name="inApp_download">Téléchargement In-App</string>
+    <string name="select_download_server">Sélectionner le Serveur de Téléchargement</string>
+    <string name="all_genres">Tous les Genres</string>
+    <string name="no_subtitle_found">Aucun sous-titre trouvé pour cette vidéo.</string>
+    <string name="select_subtitle">Sélectionner le Sous-titre</string>
+    <string name="no_other_server_found">Aucun autre serveur trouvé</string>
+    <string name="embed_not_supported">Le fichier intégré n\'est pas supporté.</string>
+    <!-- Notification Channel -->
+    <string name="now_playing_channel_description">Affiche la musique en cours de lecture</string>
+    <string name="now_playing_channel_name">Lecture en Cours</string>
+    <string name="recommended_for_you">Films Recommandés pour Vous</string>
+    <string name="image_description">Description de l\'Image</string>
+    <string name="close">Fermer</string>
+    <string name="movie_title">Titre du Film</string>
+    <string name="poster">Affiche</string>
+    <string name="you_are_not_logged_in">Vous n\'êtes pas connecté.</string>
+    <string name="want_to_sign_out">Voulez-vous vraiment vous déconnecter ?</string>
+</resources>
